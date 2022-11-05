@@ -3,9 +3,9 @@
 <h3 align="center">A person in love with Django and Python</h3>
 
 - 🌱 I’m currently learning Python, Django, JavaScript and many other very interesting things
-(and you can even do it <a href='https://int-quiz.onbline' target="_blank" rel='noopener'> with me</a>)
+(and you can even do it <a href='https://int-quiz.online' target="_blank" rel='noopener'> with me</a>)
 
-- 📫 How to reach me: <a href="mailto:inspiracion@yandex.ru">
+- 📫 How to reach me: <a href='mailto:inspiracion@yandex.ru'>inspiracion@yandex.ru</a>
 
 <!--
 **Lalluviadel/Lalluviadel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
